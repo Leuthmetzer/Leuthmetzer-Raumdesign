@@ -1,1 +1,1 @@
-V3 experimentell. SegFormer wie V2, optional SlimSAM per Fingertipp (Modell-Download, WASM). Flächenvorschau, Perspektive über vier Punkte, Aussparungen. Keine echte Herstellertextur. Browser-/Gerätetest ausstehend. Alle Dateien und icons/ im Repository belassen.
+V4: Beide KI-Modelle aus V3, Pinsel/Radierer, experimentelle Bodenperspektive und Beleuchtung, verbesserte synthetische Dekore. Eigene Produktfotos über Dekor hinzufügen. Pinsel innerhalb der Perspektivfläche; bei Bedarf Perspektive erweitern. Browser-/Handytest ausstehend.
