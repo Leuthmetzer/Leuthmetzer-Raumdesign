@@ -1,0 +1,2 @@
+Leuthmetzer Raumdesign V1.1
+Alle Dateien und den Ordner icons in ein NEUES GitHub-Repository hochladen. Settings > Pages > Deploy from a branch > main / (root). HTTPS-Seite einmal online öffnen, danach Chrome-Menü > Zum Startbildschirm hinzufügen / App installieren. Offline erst nach erfolgreichem Cache-Aufbau testen. Musterdekore werden im Browser aus catalog.js erzeugt; keine Herstellerbilder. Eigene Fotos bleiben lokal, eigene Dekore nur für die Sitzung. Keine automatische Möbelerkennung.
